@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/mafaldapires](https://troopl.com/mafaldapires)
+- 👨‍💻 All of my projects are available at [https://mafaldapires-portfolio.netlify.app/]
 
 - 💬 Ask me about **CSS and Ruby on Rails**
 
