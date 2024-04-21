@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FoodBuddy<br><br>🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at [https://mafaldapires-portfolio.netlify.app/]<br><br>💬 Ask me about CSS and Ruby on Rails<br><br>📫 How to reach me mfpires111@gmail.com
+🔭 I’m currently working on FoodBuddy and RescuePaws<br><br>🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at [https://mafaldapires-portfolio.netlify.app/]<br><br>💬 Ask me about CSS and Ruby on Rails<br><br>📫 How to reach me mfpires111@gmail.com
 
 
 ## 🌐 Socials:
